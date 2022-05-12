@@ -28,7 +28,7 @@
       "description": "ALLOWED USERS [ids of user or supergroup] seperate by spaces",
       "value": ""
     },
-    "TG_UP_LIMIT" {
+    "TG_UP_LIMIT": {
      "descrition": " masukan sini",
      "value": ""
     },
