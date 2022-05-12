@@ -12,7 +12,6 @@ RUN apt -qq install -y curl git wget \
 
 RUN curl https://rclone.org/install.sh | bash
 RUN apt-get install -y software-properties-common && apt-get -y update
-RUN add-apt-repository -y ppa:qbittorrent-team/qbittorrent-stable && apt-get install -y qbittorrent-nox
 
 COPY requirements.txt .
 RUN pip3 install --no-cache-dir -r requirements.txt
