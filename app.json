@@ -1,12 +1,12 @@
 {
-  "name": "TK - TorToolKit",
-  "description": "A Telegram Bot that leeches magnet/torrent links/files from the interent. YT-DL supported for downloading youtube videos. Supports uploading to different cloud providers. ",
+  "name": "TK Anak2",
+  "description": "Semoga berhasil",
   "keywords": [
-    "telegram","bot","torrent","leech"
+    "teleg","butte","hiloo","mabok"
   ],
-  "repository": "https://github.com/reaitten/tk",
-  "success_url": "https://github.com/reaitten/tk",
-  "website": "https://github.com/reaitten/tk",
+  "repository": "https://github.com/akulagigalau2/tortoolkitdde",
+  "success_url": "https://github.com/akulagigalau2/tortoolkitdde",
+  "website": "https://github.com/akulagigalau2/tortoolkitdde",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
@@ -27,6 +27,10 @@
     "AUTH_CHANNEL": {
       "description": "ALLOWED USERS [ids of user or supergroup] seperate by spaces",
       "value": ""
+    }
+    "TG_UP_LIMIT" {
+     "descrition": " masukan sini",
+     "value": ""
     },
     "GD_INDEX_URL": {
       "description": "gdrive index link",
