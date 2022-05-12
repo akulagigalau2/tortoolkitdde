@@ -27,7 +27,7 @@
     "AUTH_CHANNEL": {
       "description": "ALLOWED USERS [ids of user or supergroup] seperate by spaces",
       "value": ""
-    }
+    },
     "TG_UP_LIMIT" {
      "descrition": " masukan sini",
      "value": ""
